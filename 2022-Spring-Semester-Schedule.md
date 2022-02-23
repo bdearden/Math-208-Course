@@ -1,4 +1,4 @@
-# Initial notes for Spring 2022 MTH 225
+# Initial notes for Spring 2022 Math 208
 
 ## Draft timetable
 
